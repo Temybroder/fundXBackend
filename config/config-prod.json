@@ -1,0 +1,14 @@
+{
+  "port": "3000",
+  "mongodb": {
+    "host": "mongo",
+    "port": "27017",
+    "database": "fundX"
+  },
+  "directory": {
+    "users": "./uploads/images/users/"
+  },
+  "default_image": {
+    "users": ""
+  }
+}
